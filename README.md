@@ -1,2 +1,10 @@
 # Student-management-system
 基于PySide2的学生管理系统
+##### Python库安装
+`
+pip install pyside2`
+<br />
+### 怎么运行
+- 直接使用vscode 打开学生管理系统.py文件
+### 需求详情
+![需求](https://github.com/Unreal-abc/Student-management-system/blob/main/%E9%9C%80%E6%B1%82.jpg)
