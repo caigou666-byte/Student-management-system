@@ -7,4 +7,4 @@ pip install pyside2`
 ### 怎么运行
 - 直接使用vscode 打开学生管理系统.py文件
 ### 需求详情
-![需求](https://gitee.com/li-xuegong/picture/blob/master/1663522930010.jpg.jpg)
+![需求]([https://gitee.com/li-xuegong/picture/blob/master/1663522930010.jpg.jpg](https://gitee.com/li-xuegong/picture/raw/master/1663522930010.jpg.jpg))
